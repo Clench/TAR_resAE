@@ -5,7 +5,7 @@
 
 If you find our work useful for your research, please consider citing the following papers :)
 
-'''
+```
 @inproceedings{lee2021tar,
   title={TAR: Generalized Forensic Framework to Detect Deepfakes Using Weakly Supervised Learning},
   author={Lee, Sangyup and Tariq, Shahroz and Kim, Junyaup and Woo, Simon S},
@@ -14,4 +14,4 @@ If you find our work useful for your research, please consider citing the follow
   year={2021},
   organization={Springer}
 }
-'''
+```
