@@ -3,7 +3,7 @@
 
 ## Citation
 
-If you find our work useful for your research, please consider citing the following papers :)
+If you find our work useful for your research, please consider citing the following paper :)
 
 ```
 @inproceedings{lee2021tar,
